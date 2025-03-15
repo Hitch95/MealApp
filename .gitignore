@@ -1,0 +1,56 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+
+build/
+.idea/
+*.apk
+*.apks
+*.aar
+*.jar
+*.class
+
+# Fichiers de configuration spécifiques à l'utilisateur
+*.log
+*.bak
+*.swp
+*.zip
+
+# Fichiers de cache de Gradle
+.gradle/caches/
+.gradle/daemon/
+.gradle/wrapper/dists/
+
+# Fichiers de configuration de Firebase
+google-services.json
+
+# Fichiers de configuration de NDK (si vous utilisez le NDK)
+obj/
+libs/
+
+# Fichiers de configuration de ProGuard (si vous utilisez ProGuard)
+proguard-rules.pro.map
+proguard-rules.pro.txt
+
+# Fichiers de configuration de Keystore (si vous utilisez Keystore)
+*.jks
+*.keystore
+
+# Fichiers de configuration de CMake (si vous utilisez CMake)
+CMakeLists.txt.user
+
+# Fichiers de configuration de Datastore
+.datastore/
